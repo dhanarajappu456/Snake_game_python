@@ -9,7 +9,7 @@ using
 <br>
 <i>"pip install freegames"</i>
 
-# Screnshot
+# Screenshot
 <br>
 <center><img src="sn.png"/></center>
 
