@@ -5,5 +5,10 @@
 <center><img src="sn.png"/></center>
 
 
+Do install freegames module if not already present
+using 
+<i>pip install freegames</i>
+
+
 
 
