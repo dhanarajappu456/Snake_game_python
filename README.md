@@ -7,7 +7,8 @@
 
 Do install freegames module if not already present
 using 
-<i>pip install freegames</i>
+<br>
+<i>"pip install freegames"</i>
 
 
 
